@@ -2,3 +2,5 @@ wpu-resolusi
 1.konsisten untuk membuat program
 2. membuat platform untuk pengelolaan video
 3. membuat forum diskusi
+4.membuat merch shop
+5.kolaborasi dengan lebih banyak export
